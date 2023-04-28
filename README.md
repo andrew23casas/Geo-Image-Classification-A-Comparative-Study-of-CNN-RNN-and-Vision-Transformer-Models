@@ -4,5 +4,5 @@
 ## Overview
 The repository is organized as follows:
 
-code/: Contains the code for each architecture (CNN + MLP, CNN + RNN + MLP, and ViT + MLP).
+code/: Contains the code for each architecture (CNN + MLP, CNN + RNN + MLP, and ViT + MLP).               
 paper/: Contains the final report explaining the methodologies, experiments, and results of this project
